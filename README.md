@@ -20,4 +20,7 @@ Overall, this internship was a great learning experience. It provided me with th
 I now feel more confident in Python and look forward to building more advanced projects in the future. This internship has been a stepping stone in my journey as a developer, and I’m grateful to CodSoft for the opportunity and the guidance throughout these four weeks.
 
 
+OUTPUT:
+1.![Image](https://github.com/user-attachments/assets/03345d18-fda4-4e12-a8e8-fcf8b4bf12d0)
+
 
