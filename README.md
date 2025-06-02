@@ -23,5 +23,6 @@ I now feel more confident in Python and look forward to building more advanced p
 OUTPUT:
 1.![Image](https://github.com/user-attachments/assets/03345d18-fda4-4e12-a8e8-fcf8b4bf12d0)
 2.![Image](https://github.com/user-attachments/assets/e02f66bd-163e-4336-a7b7-1507632ea51c)
+3.![Image](https://github.com/user-attachments/assets/48095a33-1b5d-44d5-84e1-eceb9952cb34)
 
 
